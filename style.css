@@ -1,0 +1,56 @@
+nav{
+  display: flex;
+  justify-content: center;
+  background-color:grey;
+  color: blue;
+  font-size: 45px;
+
+
+}
+.div{
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  padding: 30px;
+  margin: 60px;
+
+}
+
+.div2{
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  padding: 30px;
+  margin: 60px;
+
+
+}
+.images{
+  height: 350px;
+  width: 100px;
+}
+.images{
+  height: 350px;
+  width: 350px;
+}
+.images{
+  height: 350px;
+  width: 350px;
+}
+.images{
+  height: 350px;
+  width: 350px;
+}
+
+
+
+
+/*}
+ul{
+  display flex: auto;
+  display: inline;
+  background-color: blue;
+  color: black;
+  align-items: flex-start;
+  justify-content: flex-start;
+}*/
